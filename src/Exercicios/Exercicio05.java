@@ -5,7 +5,7 @@ import java.util.Scanner;
 usuário ganha e imprima na tela o resultado. (Base para o Salário mínimo R$ 1.293,20). */
 
 
-public class ExercicioCinco {
+public class Exercicio05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double salarioMinimoBase = 1293.20;

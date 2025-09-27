@@ -5,7 +5,7 @@ import java.util.Scanner;
 caso contrário devera multiplicar A por B. Ao final de qualquer um dos cálculos deve-se atribuir o resultado a uma variável C e
 imprimir seu valor na tela.*/
 
-public class ExercicioTres {
+public class Exercicio03 {
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int c;

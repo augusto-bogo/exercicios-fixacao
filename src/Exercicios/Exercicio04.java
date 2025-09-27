@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 // Faça um algoritmo que receba um número inteiro e imprima na tela o seu antecessor e o seu sucessor.
 
-public class ExercicioQuatro {
+public class Exercicio04 {
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int sucessor;
